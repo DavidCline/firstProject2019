@@ -14,5 +14,7 @@ figures/
   explanatory_figures/
 products/
   writing/
+  
+This should be connected properly to git now.
 
 
