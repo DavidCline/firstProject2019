@@ -1,5 +1,7 @@
 Task list
 
+
+- Find a good topic with a question that can be examined with data
 - Obtain the data
 - Summarize key variables
 - Write short report
